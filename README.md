@@ -7,11 +7,3 @@ Part Time Student Software Engineer @ John Deere | Prev SWE Intern @ Principal F
 I am always open to collaborating on great ideas. Let's connect!
 
 - Reach me at zheng.jerry06@gmail.com
-
-## GitHub Stats
-
-![Jerry's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jerrzheng&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jerrzheng&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrzheng&theme=default)
