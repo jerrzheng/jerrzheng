@@ -1,4 +1,4 @@
-# Hello 👋!
+# Hello 👋
 
 Passionate computer science student with a strong interest in cloud infrastructure, security, and AI. Driven by curiosity and a desire to make an impact, I thrive on tackling new challenges and learning new technologies.
 
